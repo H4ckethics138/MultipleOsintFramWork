@@ -1,5 +1,4 @@
 # MultipleOsintFramWork
-# MultipleOsintFramWork
 
 # TEAM HACKETHICS138 MULTI-TOOL
 ## Complete System Documentation
